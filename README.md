@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SimonaAng
 - 👀 I’m interested in front end web developing
-- 🌱 I’m currently learning basics if front end development 
+- 🌱 I’m currently learning basics of front end development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: s.angeloska1@gmail.com
 
